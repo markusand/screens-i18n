@@ -19,7 +19,18 @@
 	"about": {
 		"vision": "visió",
 		"floorplan": "zona expositiva",
-		"our_vision": "La nostra visió..."
+		"our_vision": "La nostra visió...",
+		"zones": {
+			"el_cim": "Espai de treball El Cim",
+			"tourism_office": "Oficina de turisme",
+			"videowall": "Mur interactiu",
+			"touchscreens": "Pantalles tàctils",
+			"vr": "Realitat virtual",
+			"media": "Documentals",
+			"model3d": "Maqueta 3D",
+			"conference_room": "Sala de conferències",
+			"comu_offices": "Oficines del Comú"
+		}
 	},
 	"safety": {
 		"pages": {

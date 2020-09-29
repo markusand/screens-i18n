@@ -19,7 +19,18 @@
 	"about": {
 		"vision": "vision",
 		"floorplan": "exhibition space",
-		"our_vision": "Our vision..."
+		"our_vision": "Our vision...",
+		"zones": {
+			"el_cim": "El Cim working space",
+			"tourism_office": "Tourism office",
+			"videowall": "Interactive videowall",
+			"touchscreens": "Touchscreens",
+			"vr": "Virutal Reality",
+			"media": "Documentaries",
+			"model3d": "Model 3D",
+			"conference_room": "Conference room",
+			"comu_offices": "Comú offices"
+		}
 	},
 	"safety": {
 		"pages": {

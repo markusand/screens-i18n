@@ -7,6 +7,7 @@
 		"go_menu": "Go to menu"
 	},
 	"navigation": {
+		"menu": "Navigation",
 		"snow_science": "snow science",
 		"safety": "safety",
 		"commitment": "commitment",
@@ -16,6 +17,8 @@
 		"explore": "explore"
 	},
 	"about": {
+		"vision": "vision",
+		"floorplan": "exhibition space",
 		"our_vision": "Our vision..."
 	},
 	"safety": {
@@ -117,6 +120,7 @@
 			}
 		},
 		"thunderstorm": {
+			"thunderstorm": "thunderstorm",
 			"description": "Thunderstorms are the main cause of injuries and deaths related to weather phenomena. They form suddenly on warm days, mostly in the afternoon, and are often accompanied by strong winds, heavy rain, or hail.",
 			"know_distance": "Count the seconds elapsed between lightning and thunder to know the approximate distance, in kilometers, at which a storm is.",
 			"stay_safe": "stay safe",

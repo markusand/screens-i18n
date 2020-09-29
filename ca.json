@@ -7,6 +7,7 @@
 		"go_menu": "Anar al menú"
 	},
 	"navigation": {
+		"menu": "menú principal",
 		"snow_science": "nivologia",
 		"safety": "seguretat",
 		"commitment": "compromís",
@@ -16,6 +17,8 @@
 		"explore": "explora"
 	},
 	"about": {
+		"vision": "visió",
+		"floorplan": "zona expositiva",
 		"our_vision": "La nostra visió..."
 	},
 	"safety": {
@@ -117,6 +120,7 @@
 			}
 		},
 		"thunderstorm": {
+			"thunderstorm": "tempesta elèctrica",
 			"description": "Les tempestes elèctriques són el principal perill de lesions i morts relacionades amb fenòmens meteorològics. Es formen sobtadament en dies càlids, majoritàriament a la tarda, i van sovint acompanyades de forts vents, pluja intensa o calamarsa.",
 			"know_distance": "Conta els segons transcorreguts entre el llamp i el tro per saber la distància aproximada a la que es troba una tempesta.",
 			"avoid_lightning": "Evita els llamps",

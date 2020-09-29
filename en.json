@@ -31,9 +31,9 @@
 			"thunderstorm": "thunderstorms"
 		},
 		"general": {
-			"intro": "The mountain presents a series of risks that have to be faced with caution to enjoy the experience with security and comfort. These risks may be due to unforeseen and external factors to the hiker, but the main causes of accidents in the mountains are due to the human factor: ignorance of the environment, inexperience or overestimation of self abilities.",
+			"intro": "The mountain presents a series of risks that have to be faced with caution to enjoy the experience with safety and comfort. These risks may be due to unforeseen and external factors to the hiker, but the main causes of accidents in the mountains are due to the human factor: ignorance of the environment, inexperience or overestimation of self abilities.",
 			"guide": "The majority of accidents and rescues in the mountains are recorded during the months of this year. In case you do not have the appropriate experience, the most advisable is to begin with professional guide help.",
-			"basic_principles": "Basic principles of security in the mountains",
+			"basic_principles": "Basic principles of safety in the mountains",
 			"principles": {
 				"plan": "Plan",
 				"plan_desc": "Consult updated information, guides and maps. Check the weather conditions and snow status, as well as its possible evolution.",
@@ -125,7 +125,7 @@
 			"avoid_lightning": "Avoid lightning",
 			"in_case_of": "In case of thunderstorm",
 			"safety_position": "Safety position",
-			"prevention": "Be prepared, check your local weather forecast and postpone your departure if there is a risk of a storm. The priority in case of a storm is to find a safe haven. As a last resort, take the security position and wait for it to dissipate.",
+			"prevention": "Be prepared, check your local weather forecast and postpone your departure if there is a risk of a storm. The priority in case of a storm is to find a safe haven. As a last resort, take the safety position and wait for it to dissipate.",
 			"safety_tips": {
 				"metal_contact": "Avoid contact with metal elements. Get rid of your backpack, belt, nails, sticks, ice axes, etc.",
 				"spread_group": "Spread the group to minimize the impact of lightning.",

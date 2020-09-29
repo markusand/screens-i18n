@@ -4,12 +4,12 @@
 		"got_lost": "T'has perdut?",
 		"not_here": "El que sigui que buscaves no està aquí",
 		"go_back": "Tornar enrere",
-		"go_menu": "Anar al menu"
+		"go_menu": "Anar al menú"
 	},
 	"navigation": {
 		"snow_science": "nivologia",
 		"safety": "seguretat",
-		"commitment": "compromis",
+		"commitment": "compromís",
 		"about": "qui som",
 		"kids": "nens",
 		"discover": "descobreix",
@@ -29,14 +29,14 @@
 		},
 		"general": {
 			"stay_safe": "stay safe",
-			"intro": "La muntanya presenta una sèrie de riscos que s'han d'afrontar amb prudència per gaudir de l'experiència amb seguretat i comoditat. Aquests riscos poden ser deguts a factors imprevistos i aliens a l'excursionista, però les principals causes dels accidents en muntanya són degudes al factor humà: el desconeixement del medi, la inexperiència o la sobreestimació de les capacitats pròpies",
-			"guide": "La majoria d'accidents i rescats en muntanya es registra durant els mesos d'estiu. En cas de no tenir l'experiència adequada, el més aconsellable és iniciar-se de la mà d'un guia professional",
+			"intro": "La muntanya presenta una sèrie de riscos que s'han d'afrontar amb prudència per gaudir de l'experiència amb seguretat i comoditat. Aquests riscos poden ser deguts a factors imprevistos i aliens a l'excursionista, però les principals causes dels accidents en muntanya són degudes al factor humà: el desconeixement del medi, la inexperiència o la sobreestimació de les capacitats pròpies.",
+			"guide": "La majoria d'accidents i rescats en muntanya es registra durant els mesos d'estiu. En cas de no tenir l'experiència adequada, el més aconsellable és iniciar-se de la mà d'un guia professional.",
 			"basic_principles": "Principis bàsics de seguretat en muntanya",
 			"principles": {
 				"plan": "Planifica",
 				"plan_desc": "Consulta informació, guies i mapes actualitzats. Revisa les condicions meteorològiques i l'estat de la neu, així com la seva possible evolució.",
 				"equip": "Equipa't",
-				"equip_desc": "Porta l'equip necessari per l'activitat i avituallament suficient per afrontar possibles imprevistos.",
+				"equip_desc": "Porta l'equip necessari per a l'activitat i avituallament suficient per afrontar possibles imprevistos.",
 				"notify": "Avisa",
 				"notify_desc": "Comunica a algú de confiança els detalls sobre la ruta i les dates de l'activitat prevista.",
 				"adapt": "Adapta't",
@@ -46,8 +46,8 @@
 		"rescue": {
 			"emergency_phone": "Telèfon emergència",
 			"european_phone": "Telèfon únic europeu d'emergència per tots els països de la Unió Europea i altres com Andorra, Suïssa o Noruega.",
-			"disclaimer": "Davant d'actituds negligents el Govern pot reclamar al rescatat l'assumpció del cost del dispositiu de salvament",
-			"phone_directives": "En cas d'accident o emergència, truca al telèfon d'emergència i indica de manera breu però precisa",
+			"disclaimer": "Davant d'actituds negligents el Govern pot reclamar al rescatat l'assumpció del cost del dispositiu de salvament.",
+			"phone_directives": "En cas d'accident o emergència, truca al telèfon d'emergència i indica de manera breu però precisa:",
 			"phone_questions": {
 				"what": "què?",
 				"what_desc": "Una descripció detallada de la situació",
@@ -61,8 +61,8 @@
 			"distress_signals": "Senyals d'auxili",
 			"distress": {
 				"helicopter_message": "Senyals per indicar a un pilot d'helicòpter si es necessita ajuda o si pel contrari la situació està controlada.",
-				"helicopter_yes": "Yes, I need help.",
-				"helicopter_no": "Everything is fine",
+				"helicopter_yes": "Necessito ajuda",
+				"helicopter_no": "Tot està correcte",
 				"morse_sos": "Senyal internacional de petició d'auxili. Se simbolitza en codi morse com una successió de tres polsos curts, tres polsos llargs i tres polsos curts més."
 			}
 		},
@@ -79,12 +79,12 @@
 				"food": "Aliment energètic",
 				"raincoat": "Impermeable",
 				"first_aid_kit": "Farmaciola",
-				"mobile_phone": "Telèfon mòvil i bateries extra",
+				"mobile_phone": "Telèfon mòbil i bateries extra",
 				"map_compass": "Mapa i brúixola",
 				"sun_protection": "Protecció solar",
 				"thermal_blanket": "Manta tèrmica",
 				"gps": "Dispositiu GPS",
-				"knife": "Navalla multiusos",
+				"knife": "Navalla multiús",
 				"lighter": "Encenedor",
 				"flashlight": "Llanterna o frontal",
 				"sandals": "Sandàlies"
@@ -113,13 +113,13 @@
 				"name": "Tora",
 				"description": "La tora és una planta alta, amb fulles verdes palmades i coronada per un ram molt característic de vistoses flors zigomorfes. La floració comença al juliol.",
 				"habitat": "Creix entre els 1000 m i 2500 m d'altitud, prop de rierols i en zones humides i ombrívoles de bosc. Al Pirineu hi són presents tres espècies, la tora blava (Aconitum napellus), la tora groga (Aconitum anthora) i la tora blanca (Aconitum vulparia).",
-				"danger": "És una planta extremadament tòxica i pot ser letal inclús en petites quantitats. "
+				"danger": "És una planta extremadament tòxica i pot ser letal inclús en petites quantitats."
 			}
 		},
 		"thunderstorm": {
-			"description": "Les tempestes elèctriques són el principal perill de lesions i morts relacionades amb fenòmens meteorològics. Es formen sobtadament en dies càlids, majoritàriament a la tarda, i van sovint acompanyades de forts vents, pluja intenssa o calamarsa.",
-			"know_distance": "Conta els segons transcorreguts entre el llamp i el tro i per saber la distancia aproximada a la que es troba una tempesta",
-			"stay_safe": "erwte",
+			"description": "Les tempestes elèctriques són el principal perill de lesions i morts relacionades amb fenòmens meteorològics. Es formen sobtadament en dies càlids, majoritàriament a la tarda, i van sovint acompanyades de forts vents, pluja intensa o calamarsa.",
+			"know_distance": "Conta els segons transcorreguts entre el llamp i el tro per saber la distància aproximada a la que es troba una tempesta.",
+			"avoid_lightning": "Evita els llamps",
 			"in_case_of": "En cas de tempesta elèctrica",
 			"safety_position": "Posició de seguretat",
 			"prevention": "Estigues preparat, consulta la previsió meteorològica local i ajorna la sortida si hi ha risc de tempesta. La prioritat en cas de tempesta és trobar un refugi segur. Com a última alternativa, adopta la posició de seguretat i espera que aquesta es dissipi.",
@@ -127,7 +127,7 @@
 				"metal_contact": "Evita el contacte amb elements metàl·lics. Desprèn-te de motxilla, cinturó, claus, bastons, piolets, etc.",
 				"spread_group": "Disperseu el grup per minimitzar l'impacte d'un llamp.",
 				"find_shelter": "Busca refugi. Edificis o vehicles són segurs, les tendes de campanya no.",
-				"no_run": "No corris",
+				"no_run": "No corris.",
 				"not_safe_places": "Allunya't de pics, carenes i qualsevol element alt del voltant. No et situïs sota arbres aïllats ni dins de cavitats naturals.",
 				"protect_ears": "Protegeix-te les orelles de l'esclat dels trons.",
 				"crouch_down": "Ajup-te fins a la posició més baixa possible. No et tombis mai ni t'asseguis a terra.",
@@ -143,12 +143,12 @@
 				"drink": "Menjar i hidratar-se constantment. Portar begudes calentes en un termo.",
 				"rest": "Aturar-se i reposar per prevenir la fatiga.",
 				"warm": "Protegir mans, peus, coll i cara amb guants, barret, passamuntanyes i uns bons mitjons.",
-				"clothes": "Vestir-se amb roba adequada, que mantingui el cos eixut i calent. Utilitzar múltiples capes, una d'exterior impermeable i diverses interiors transpirables. ",
+				"clothes": "Vestir-se amb roba adequada, que mantingui el cos eixut i calent. Utilitzar múltiples capes, una d'exterior impermeable i diverses interiors transpirables.",
 				"avoid_cotton": "Evitar la roba de cotó, ja que absorbeix i manté la humitat.",
 				"call_er": "Avisar al servei d'emergència 112.",
 				"isolate": "Aïllar del terra i del vent.",
 				"dry": "Substituir roba mullada per peces eixutes.",
-				"cover": "Cobrir amb mantes o roba càlida. Recuperar la temperatura corporal gradualment",
+				"cover": "Cobrir amb mantes o roba càlida. Recuperar la temperatura corporal gradualment.",
 				"warm_drink": "Donar begudes dolces i tèbies, però no calentes.",
 				"no_alcohol": "No oferir alcohol, cafeïna ni tabac.",
 				"no_heat": "No aplicar calor directament."

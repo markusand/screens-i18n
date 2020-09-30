@@ -133,7 +133,7 @@
 		"thunderstorm": {
 			"thunderstorm": "tempesta elèctrica",
 			"description": "Les tempestes elèctriques són el principal perill de lesions i morts relacionades amb fenòmens meteorològics. Es formen sobtadament en dies càlids, majoritàriament a la tarda, i van sovint acompanyades de forts vents, pluja intensa o calamarsa.",
-			"know_distance": "Conta els segons transcorreguts entre el llamp i el tro per saber la distància aproximada a la que es troba una tempesta.",
+			"know_distance": "Conta els segons transcorreguts entre el llamp i el tro i divideix per tres per saber la distància aproximada en kilòmetres a la que es troba una tempesta.",
 			"avoid_lightning": "Evita els llamps",
 			"in_case_of": "En cas de tempesta elèctrica",
 			"safety_position": "Posició de seguretat",

@@ -1,0 +1,28 @@
+{
+  "name": "screens-i18n",
+  "version": "1.0.0",
+  "description": "Language translations for Casa de la Muntanya's screens",
+  "main": "index.js",
+  "scripts": {
+    "build": "yaml2json source -s && npm run move",
+    "move": "mkdir -p dist && cp -r source/*.json dist && rm source/*.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markusand/screens-i18n.git"
+  },
+  "keywords": [
+    "cdm",
+    "screens",
+    "translations"
+  ],
+  "author": "Marc Vilella <mvilella@obsa.ad> (https://github.com/markusand)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markusand/screens-i18n/issues"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  }
+}

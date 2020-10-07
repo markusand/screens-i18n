@@ -1,0 +1,189 @@
+# Not found page
+404:
+  not_found: Page not found
+  got_lost: Got lost?
+  not_here: Whatever you were looking for is not here
+  go_back: Go back
+  go_menu: Go to menu
+
+
+# Main navigation
+navigation:
+  menu: Navigation
+  snow_science: snow science
+  safety: safety
+  commitment: commitment
+  about: we are
+  kids: kids
+  discover: discover
+  explore: explore
+
+
+#About page
+about:
+  vision: vision
+  floorplan: exhibition space
+  our_vision: Our vision...
+  zones:
+    el_cim: El Cim working space
+    tourism_office: Tourism office
+    videowall: Interactive videowall
+    touchscreens: Touchscreens
+    vr: Virutal Reality
+    media: Documentaries
+    model3d: Model 3D
+    conference_room: Conference room
+    comu_offices: Comú offices
+
+
+# Safety page
+safety:
+  pages:
+    general: general
+    rescue: rescue
+    equipment: equipment
+    wildlife: dangerous species
+    hypothermia: hypothermia
+    thunderstorm: thunderstorms
+
+
+  # Safety: General
+  general:
+    intro: The mountain presents a series of risks that have to be faced with caution to enjoy the experience with safety and comfort. These risks may be due to unforeseen and external factors to the hiker, but the main causes of accidents in the mountains are due to the human factor: ignorance of the environment, inexperience or overestimation of self abilities.
+    guide: The majority of accidents and rescues in the mountains are recorded during the most advisable is to begin with professional guide help.
+    basic_principles: Basic principles of safety in the mountains
+    principles:
+      plan: Plan
+      plan_desc: Consult updated information, guides and maps. Check the weather conditions and snow status, as well as its possible evolution.
+      equip: Equip yourself
+      equip_desc: Bring the necessary equipment for the activity and enough supplies to face possible unforeseen events.
+      notify: Warn
+      notify_desc: Inform someone you trust about the details of the route and the dates of the planned activity.
+      adapt: Adapt yourself
+      adapt_desc: Adapt the activity to your physical and technical limits, to the terrain conditions and to the meteorological forecast. Always have a B plan.
+
+
+  # Safety: Rescue
+  rescue:
+    emergency_phone: Emergency phone
+    european_phone: Single European emergency phone number for all the countries of the European Union and others like Andorra, Switzerland or Norway.
+    disclaimer: In the event of negligent behavior, the Government may claim the cost of the rescue device to the rescued person.
+    phone_directives: In case of accident or emergency, call the emergency phone and indicate briefly but precisely:
+    phone_questions:
+      what: What?
+      what_desc: A detailed description of the situation
+      where: Where?
+      where_desc: The exact location of the events
+      when: When?
+      when_desc: The precise moment of the events
+      who: Who?
+      who_desc: The people involved and their status
+    distress_signals: Distress signals
+    distress:
+      helicopter_message: Signals to indicate to a helicopter pilot if help is needed or if the situation is under control.
+      helicopter_yes: Yes, I need help.
+      helicopter_no: Everything is fine
+      morse_sos: International distress signal. It is symbolized in Morse code as a succession of three short pulses, three long pulses and other three short pulses.
+
+
+  # Safety: Equipment
+  equipment:
+    equip_yourself: Equip yourself properly
+    proper_equipment: It is essential to prepare the backpack with the material adapted to the conditions of the activity and the environment in order to enjoy a comfortable excursion to the mountain and to be able to safely face any unexpected event.
+    essentials: Essentials
+    recommended: Recommended
+    disclaimer: The necessary equipment will always depend on the activity to be carried out. The list of basic equipment must be extended according to the specific requirements of the trip (overnight stay in the mountain, winter trip, specific sports activity, etc.).
+    items:
+      clothes: Appropriate clothing
+      shoes: Appropriate shoes
+      water: Drinking water
+      food: Energetic food
+      raincoat: Raincoat
+      first_aid_kit: First Aid Kit
+      mobile_phone: Mobile phone and extra batteries
+      map_compass: Map and compass
+      sun_protection: Sun protection
+      thermal_blanket: Thermal blanket
+      gps: GPS device
+      knife: Multi-tool pocketknife
+      lighter: Lighter
+      flashlight: Flashlight
+      sandals: Sandals
+
+
+  # Safety: Dangerous species
+  wildlife:
+    amanita_muscaria:
+      name: Amanita muscaria
+      description: Amanita muscaria is a psychoactive mushroom with red cap and white spores. The stipe, white and bulbous at the base, has a wide and fragile ring also white.
+      habitat: Native to the temperate and boreal regions of the Northern Hemisphere, it grows in coniferous and deciduous forests from late summer to early autumn.
+      danger: It is highly indigestible and hallucinogenic, although its ingestion rarely produces fatal intoxication.
+
+    vipera_aspis:
+      name: Vipera aspis
+      description: The vipera aspis is a venomous snake about 60 cm long. It has a broad, triangular head, well differentiated from the body. The scales are gray or golden, with black or greenish spots zigzagging on the back.
+      habitat: It lives in warm areas and with good exposure to the Sun, with preference for stony environments and grasslands.
+      danger: His bite is very painful, but it is rarely lethal. The severity varies depending on the amount of poison inoculated and the only effective treatment is the administration of anti-viper serum.
+
+    ursus_arctos:
+      name: Brown bear
+      description: The brown bear can measure up to 3 m and weigh up to 700 kg. Its fur is between dark brown and light golden, going through different shades of gray. It does not have very developed vision, but it has an excellent hearing and smell.
+      habitat: It inhabits mature forests in Europe, temperate Asia and North America. Some individuals are found in the Pyrenees thanks to the reintroduction programs of the species.
+      danger: It generally avoids contact with humans, and only attacks in sudden encounters, if it feels cornered or considers his offspring to be in danger.
+
+    aconitum:
+      name: Aconitum
+      description: The aconitum is a tall plant, with palmate green leaves and crowned by a very characteristic bouquet of zygomorphic flowers. Flowering begins in July.
+      habitat: It grows between 1000 m and 2500 m altitude, near streams and in humid and shady areas of forest. There are three species in the Pyrenees, the Aconitum napellus, the Aconitum anthora and the Aconitum vulparia.
+      danger: It is an extremely toxic plant and can be lethal even in small amounts.
+
+
+  # Safety: Thunderstorm
+  thunderstorm:
+    thunderstorm: thunderstorm
+    description: Thunderstorms are the main cause of injuries and deaths related to weather phenomena. They form suddenly on warm days, mostly in the afternoon, and are often accompanied by strong winds, heavy rain, or hail.
+    know_distance: Count the seconds elapsed between lightning and thunder and divide by three to know the approximate distance, in kilometers, at which a storm is.
+    avoid_lightning: Avoid lightning
+    in_case_of: In case of thunderstorm
+    safety_position: Safety position
+    prevention: Be prepared, check your local weather forecast and postpone your departure if there is a risk of a storm. The priority in case of a storm is to find a safe haven. As a last resort, take the safety position and wait for it to dissipate.
+    safety_tips:
+      metal_contact: Avoid contact with metal elements. Get rid of your backpack, belt, nails, sticks, ice axes, etc.
+      spread_group: Spread the group to minimize the impact of lightning.
+      find_shelter: Look for shelter. Buildings or vehicles are safe, tents are not.
+      no_run: Do not run
+      not_safe_places: Stay away from peaks, ridges and any high elements around. Do not place yourself under isolated trees or inside natural cavities.
+      protect_ears: Protect your ears from the thunder.
+      crouch_down: Crouch down low. Never lie down or sit on the floor.
+      touch_heels: Heels contact. It increases the likelihood of electricity entering through one foot coming out through the other foot instead of flowing to the rest of the body.
+      feet_balls: Stand on tiptoe to minimize contact with the ground. Increase insulation with your backpack or mat.
+
+
+  # Safety: Hypothermia
+  hypothermia:
+    definition: Hypothermia is the condition in which the body temperature drops below its normal value, around 37 °C. Its severity will be influenced by room temperature, contact with wet clothing or metals, the presence of cardiovascular disease, alcohol intake and / or hunger.
+    prevention_tips: Prevention measures
+    in_case_of: In case of hypothermia
+    tips:
+      drink: Eat and hydrate constantly. Bring hot drinks in a thermos.
+      rest: Stop and rest to prevent fatigue.
+      warm: Protect hands, feet, neck and face with gloves, hat, balaclava and good socks.
+      clothes: Dress in appropriate clothing, which keeps the body dry and warm. Use multiple layers, one waterproof exterior and several breathable interiors.
+      avoid_cotton: Avoid cotton clothes as it absorbs and retains moisture.
+      call_er: Call the 112 emergency service.
+      isolate: Insulate from the ground and wind.
+      dry: Replace wet clothes with dry clothes.
+      cover: Cover with blankets or warm clothes. Gradually regain body temperature.
+      warm_drink: Give sweet, warm drinks, but not hot ones.
+      no_alcohol: Do not offer alcohol, caffeine or tobacco.
+      no_heat: Do not apply heat directly.
+    symptoms:
+      normal: Normal motor skills and metabolic processes
+      chill: Shivers
+      sensory_loss: Loss of sensitivity
+      speech_impairment: Speech difficulty
+      memory_loss: Memory loss
+      motor_uncoordination: Motor incoordination
+      arrhythmia: Arrhythmia
+      cardiorespiratory_arrest: Cardiorespiratory arrest
+      death: Death

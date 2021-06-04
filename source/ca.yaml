@@ -1,3 +1,17 @@
+months:
+  JAN: GEN
+  FEB: FEB
+  MAR: MAR
+  APR: ABR
+  MAY: MAI
+  JUN: JUN
+  JUL: JUL
+  AUG: AGO
+  SEP: SET
+  OCT: OCT
+  NOV: NOV
+  DEC: DES
+
 # Not found page
 404:
   not_found: Pàgina no trobada
@@ -188,3 +202,48 @@ safety:
       arrhythmia: Arrítmia
       cardiorespiratory_arrest: Aturada cardiorespiratòria
       death: Mort
+
+# explore page
+explore:
+  trails: Rutes
+
+  profiles:
+    CASUAL: Casual
+    TREKKER: Excursionista
+    FAMILY: Família
+    IGER: Instagramer
+    RUNNER: Corredor
+    SKIER: Esquiador
+    CLIMBER: Escalador
+    BIKER: Ciclista
+    FISHER: Pescador
+
+  culture:
+    ROMANESQUE: Romànic
+    DRY_STONE: Pedra seca
+    ART: Art
+
+  wildlife:
+    RUPICABRA: Isard
+    MARMOTA: Marmota
+    SALMO_TRUTTA: Truita de riu
+    TRITURUS: Tritó
+    TETRAO: Gall fer
+    LAGOPUS: Perdiu blanca
+
+  filters:
+    all: Totes les rutes
+    trending: Fes-les ara!
+    featured: Destacades
+    advanced: Avançat
+
+    range:
+      more_than: Més de {min} {unit}
+      from_to: De {min} {unit} a {max} {unit}
+
+    distance: distància
+    duration: durada
+    drop_positive: Desnivell +
+    origin: Origen
+    culture: Patrimoni cultural
+    wildlife: Fauna
